@@ -11,7 +11,7 @@ setup(
     description="Um pacote simples de operações matemáticas",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/seu_usuario/simplemath",
+    url="https://github.com/Lucadecastro/simplemath",
     packages=find_packages(),
     classifiers=[
         "Programming Language :: Python :: 3",
